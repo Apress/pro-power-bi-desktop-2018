@@ -1,0 +1,8 @@
+rdata <- table(dataset)
+barplot(rdata
+,axes=F
+,main="Make"
+,xlab="Cost Price"
+,ylab = "Number Sold per Price Point"
+,legend = rownames(rdata)
+,col=c("darkblue","red", "green", "yellow", "pink", "orange", "darkgreen") )

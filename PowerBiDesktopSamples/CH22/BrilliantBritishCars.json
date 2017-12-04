@@ -1,0 +1,7 @@
+{ 
+    "name": "Brilliant British Cars", 
+    "dataColors": ["#000000", "#0000CC", "#006600", "#FFFF00", "#F90FF9", "#5BD078", "#000099", "#FF0000", "#C0C0C0"],
+    "background":"#99CCFF",
+    "foreground": "#0000FF",
+    "tableAccent": "#FF0000"
+}

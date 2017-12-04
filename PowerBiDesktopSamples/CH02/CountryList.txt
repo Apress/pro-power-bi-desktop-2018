@@ -1,0 +1,7 @@
+CountryID	CountryName	CountryName_Local	CountryFlagURL
+1	United Kingdom	England	C:\Book_PowerView\Misc\BritishFlag.png
+2	France	France	C:\Book_PowerView\Misc\FrenchFlag.png
+3	USA	United States	C:\Book_PowerView\Misc\USAFlag.png
+4	Germany	Deuchesland	C:\Book_PowerView\Misc\GermanFlag.png
+5	Spain	Spain	C:\Book_PowerView\Misc\SpanishFlag.png
+6	Switzerland	Switzerland	C:\Book_PowerView\Misc\SwissFlag.png
